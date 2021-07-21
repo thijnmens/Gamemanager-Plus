@@ -1,0 +1,12 @@
+appId: com.Thijnmens.Gamemanager-plus
+productName: Gamemanager+
+copyright: Copyright © 2021 Thijn Smulders
+directories:
+  output: dist
+  buildResources: resources
+files:
+  - from: .
+    filter:
+      - package.json
+      - app
+publish: null
